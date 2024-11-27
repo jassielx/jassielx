@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... @jassielx
 - 😄 Pronouns: ... Jx, Jsl
-- ⚡ Fun fact: ... las estrellas del cielo nocturno tan solo muestran el pasado de estas
+- ⚡ Fun fact: ... muchas de las estrellas que vemos en el cielo, tan solo son fantasmas cuya luz apenas estamos percibiendo
 
 <!---
 jassielx/jassielx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
